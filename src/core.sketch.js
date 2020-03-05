@@ -3,7 +3,7 @@ import {
   Route,
   Link,
   Switch,
-  // withRouter,
+  withRouter,
 } from 'react-router-sketchapp';
 
 module.exports = {
@@ -11,6 +11,5 @@ module.exports = {
   Route,
   Link,
   Switch,
-  // matchPath,
-  // withRouter,
+  withRouter,
 };

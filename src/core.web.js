@@ -1,25 +1,19 @@
 import {
-  MemoryRouter,
-  Prompt,
-  Redirect,
   Route,
-  Router,
-  StaticRouter,
   Switch,
   generatePath,
   matchPath,
   withRouter,
 } from 'react-router';
 
+import { BrowserRouter as Router } from 'react-router-dom';
+
 module.exports = {
-  MemoryRouter,
-  Prompt,
-  Redirect,
-  Route,
   Router,
-  StaticRouter,
+  Route,
+  Link,
   Switch,
-  generatePath,
   matchPath,
+  generatePath,
   withRouter,
 };
