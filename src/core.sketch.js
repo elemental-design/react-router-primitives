@@ -4,7 +4,7 @@ import {
   Link,
   Switch,
   withRouter,
-} from 'react-router-sketchapp';
+} from 'react-sketchapp-router';
 
 module.exports = {
   Router,
