@@ -1,6 +1,6 @@
 {
   "name": "react-router-primitives",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Create cross-platform app routing for React web, React Native and react-sketchapp.",
   "main": "src/index.js",
   "scripts": {
