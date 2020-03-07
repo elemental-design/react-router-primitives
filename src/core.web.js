@@ -1,12 +1,12 @@
-import {
+const {
   Route,
   Switch,
   generatePath,
   matchPath,
   withRouter,
-} from 'react-router';
+} = require('react-router');
 
-import { BrowserRouter as Router } from 'react-router-dom';
+const { BrowserRouter: Router } = require('react-router-dom');
 
 module.exports = {
   Router,

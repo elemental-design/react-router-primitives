@@ -1,10 +1,10 @@
-import {
-  SketchRouter as Router,
+const {
+  SketchRouter: Router,
   Route,
   Link,
   Switch,
   withRouter,
-} from 'react-sketchapp-router';
+} = require('react-sketchapp-router');
 
 module.exports = {
   Router,
